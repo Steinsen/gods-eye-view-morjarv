@@ -1,5 +1,38 @@
 <div align="center">
 
+# 🦌 God's Eye View — Morjärv Edition
+
+> **⚠️ Tillkännagivande:** Detta projekt har härmed omvandlats till världens första (och enda) gods-eye-view för **Morjärv**, Norrbotten. Resten av jordklotet behålls tills vidare, mest som kuliss.
+
+</div>
+
+## 🛰️ Varför Morjärv?
+
+Satelliter har länge kretsat kring jorden och tittat på New York, Tokyo och Paris. Ingen har frågat Morjärv. Det tar vi nu ansvar för.
+
+**Vad du kan förvänta dig i Morjärv Edition:**
+
+| Lager | Status | Kommentar |
+|---|---|---|
+| ✈️ Live-flyg över Morjärv | 🟡 Väntar på första flygplanet | Uppskattad ankomst: någon gång |
+| 🚢 Fartyg | 🔴 Ej tillämpligt | Vi bevakar dock Kalixälven med stort allvar |
+| 🦌 Renar | 🟢 Live | Rör sig i trafiken utan att bry sig om signaturer |
+| 🚗 Trafik | 🟢 Live | Två bilar. Ibland tre. Rusningstid när bussen går |
+| 🌌 Norrsken | 🟢 Live | Kräver inga API-nycklar, bara att du går ut |
+| 🦟 Myggradar | 🔴 Överbelastad | Juli månad kraschar servern varje år |
+| 🌡️ Temperatur | 🔵 Ja | Nej, det är inte fel på sensorn. Det är verkligen −38 |
+| 📷 Offentliga kameror | 🟡 Delvis | Grannen tittar ut genom fönstret, räknas det? |
+
+**Röststyrning, lokalt anpassad:** Säg _"Zooma in på Morjärv"_ så zoomar agenten in på Morjärv. Säg _"Visa mig något spännande"_ så zoomar agenten in på Morjärv igen, fast närmare.
+
+**Integritetspolicy:** Alla i byn visste redan vad du gjorde i går. Vi har bara gjort det i 3D.
+
+_Morjärv. No place left behind — särskilt inte den här._
+
+---
+
+<div align="center">
+
 # 🌐 God's Eye View
 
 [![CI](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml) [![Reached #1 on GitHub Trending](https://img.shields.io/badge/%231_GitHub_Trending-thank_you!-F0A63C?style=flat-square&logo=github)](https://x.com/bilawalsidhu/status/2093798887815348521)
